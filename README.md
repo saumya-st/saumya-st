@@ -6,7 +6,7 @@
 ### 👩‍💻 About Me
 
 - 🎓 B.Tech in Computer Science 
-
+- 🌱 Exploring Agentic AI — building autonomous, RAG-powered systems with LangChain and Local LLMs
 - 💻 Full Stack Developer focused on scalable, real-world web applications
 - 🧠 Strong foundation in Data Structures, OOP, DBMS & Operating Systems
 
