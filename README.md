@@ -3,7 +3,7 @@
 
 ---
 
-### 👩‍💻 About Me
+## 👩‍💻 About Me
 
 - 🎓 B.Tech in Computer Science 
 - 🌱 Exploring Agentic AI — building autonomous, RAG-powered systems with LangChain and Local LLMs
@@ -12,7 +12,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 **Languages**
 
@@ -53,14 +53,14 @@
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
 - **[Janseva-Infra](https://github.com/saumya-st/JANSEWA-PROJECT)** — Offline-first civic issue reporting app with Firebase, Supabase & Gemini AI-based priority prediction (React, Firebase, Supabase, IndexedDB)
 - **[AI Study Coach](https://github.com/saumya-st/STUDY-ASSIS)** — AI-powered study planner with 50+ personalized schedules using LLaMA 3.3 70B via Groq API (Python, Streamlit, SQLite)
 
 ---
 
-### 📜 Certifications
+## 📜 Certifications
 
 - AWS Certified Cloud Practitioner
 - Introduction to NoSQL Databases – Infosys
@@ -69,7 +69,7 @@
 
 ---
 
-### 📫 Connect with Me
+## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saumya-tiwari-22909a330)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:saumyacodes02@gmail.com)
