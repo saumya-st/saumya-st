@@ -55,7 +55,7 @@
 
 ### 🚀 Featured Projects
 
-- **[Janseva-Infra](https://github.com/saumya-st/Janseva-Infra)** — Offline-first civic issue reporting app with Firebase, Supabase & Gemini AI-based priority prediction (React, Firebase, Supabase, IndexedDB)
+- **[Janseva-Infra](https://github.com/saumya-st/JANSEWA-PROJECT)** — Offline-first civic issue reporting app with Firebase, Supabase & Gemini AI-based priority prediction (React, Firebase, Supabase, IndexedDB)
 - **[AI Study Coach](https://github.com/saumya-st/AI-Study-Coach)** — AI-powered study planner with 50+ personalized schedules using LLaMA 3.3 70B via Groq API (Python, Streamlit, SQLite)
 
 ---
