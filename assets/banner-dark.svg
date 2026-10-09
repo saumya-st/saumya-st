@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Saumya Tiwari. Full-stack developer. Third-year B.Tech CS, KIET Delhi. Open to software, full-stack and backend internships.">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Saumya Tiwari. Full-stack developer. Third-year B.Tech CS student. Open to software, full-stack and backend internships.">
 <rect width="1200" height="260" rx="16" fill="#0d1117"/>
 <rect x="0.5" y="0.5" width="1199" height="259" rx="16" fill="none" stroke="#30363d"/>
 <text x="56" y="112" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="52" font-weight="700" letter-spacing="-1" fill="#e6edf3">Saumya Tiwari</text>
-<text x="56" y="152" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="19" fill="#8d96a0">Full-stack developer. Third-year B.Tech CS, KIET Delhi.</text>
+<text x="56" y="152" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="19" fill="#8d96a0">Full-stack developer. Third-year B.Tech CS student.</text>
 <circle cx="62" cy="190" r="5" fill="#3fb950"><animate attributeName="r" values="5;6.5;5" dur="2.4s" repeatCount="indefinite"/></circle>
 <text x="76" y="196" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17" font-weight="600" fill="#e6edf3">Open to software, full-stack and backend internships</text>
 <g transform="translate(626.0 136)"><g opacity="0" transform="scale(0.6)"><animate attributeName="opacity" values="0;1" dur="0.35s" begin="0.25s" fill="freeze"/><animateTransform attributeName="transform" type="scale" values="0.6;1.06;1" keyTimes="0;0.7;1" dur="0.45s" begin="0.25s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.3 1;0.4 0 0.6 1"/><rect x="-56.0" y="-26.0" width="112" height="52" rx="14" fill="#4a3f12"/><text y="7" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="20" font-weight="600" fill="#ffe28a" text-anchor="middle">idea</text></g></g>

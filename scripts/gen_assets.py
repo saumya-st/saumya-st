@@ -10,7 +10,7 @@ OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "assets")
 SANS = "'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif"
 
 NAME = "Saumya Tiwari"
-TAGLINE = "Full-stack developer. Third-year B.Tech CS, KIET Delhi."
+TAGLINE = "Full-stack developer. Third-year B.Tech CS student."
 STATUS = "Open to software, full-stack and backend internships"
 
 # Whimsical-style pastel nodes: (label, light fill, light text, dark fill, dark text)
