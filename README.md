@@ -4,24 +4,33 @@
   <img alt="Saumya Tiwari, full-stack student building AI-powered web apps, open to internships" src="assets/banner-dark.svg" width="100%">
 </picture>
 
-Third-year B.Tech Computer Science student at KIET Group of Institutions, Delhi. I build full-stack web apps end to end, from the React interface to the database, and I like adding a small, useful AI feature where it earns its place. **Open to software, full-stack and backend internships.**
+<p align="center">
+Third-year B.Tech CS student at KIET, Delhi. I build web apps end to end, from the React interface to the database, and add AI where it earns its place.<br>
+<strong>Open to software, full-stack and backend internships.</strong>
+</p>
 
 ## Featured projects
 
-| Project | What it does | Stack | Links |
-| :--- | :--- | :--- | :--- |
-| **Karya** | Team task management with JWT auth, server-side role checks, kanban boards, invite links and Google Calendar sync. | Next.js 16, TypeScript, Prisma, Neon Postgres, NextAuth | [Live](https://karya-gilt.vercel.app) · [Code](https://github.com/saumya-st/Karyaa) |
-| **Jansewa** | Offline-first civic issue reporting. Reports queue in IndexedDB and sync to Firestore when the device is back online. Gemini predicts issue priority. | React, Vite, Firebase, Supabase Storage, Gemini API | [Code](https://github.com/saumya-st/JANSEWA-PROJECT) <!-- TODO: add live demo URL once deployed --> |
-| **AI Study Coach** | Generates time-blocked study schedules with Groq, logs focus sessions in SQLite, tracks streaks and exports CSV. | Python, Streamlit, SQLite, Groq API | [Live](https://stae-study.streamlit.app) · [Code](https://github.com/saumya-st/STUDY-ASSIS) |
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/saumya-st/Karyaa"><img src="assets/card-karyaa.svg" alt="Karya: team task management with JWT auth, role checks, kanban and Google Calendar sync" width="100%"></a><br>
+      <a href="https://karya-gilt.vercel.app">Live demo</a> · <a href="https://github.com/saumya-st/Karyaa">Source</a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/saumya-st/JANSEWA-PROJECT"><img src="assets/card-jansewa-project.svg" alt="Jansewa: offline-first civic issue reporting with Firestore sync and Gemini priority prediction" width="100%"></a><br>
+      <a href="https://github.com/saumya-st/JANSEWA-PROJECT">Source</a> <!-- TODO: add live demo link once deployed -->
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/saumya-st/STUDY-ASSIS"><img src="assets/card-study-assis.svg" alt="AI Study Coach: time-blocked study schedules from Groq with SQLite streak tracking and CSV export" width="100%"></a><br>
+      <a href="https://stae-study.streamlit.app">Live demo</a> · <a href="https://github.com/saumya-st/STUDY-ASSIS">Source</a>
+    </td>
+  </tr>
+</table>
 
 ## Tech stack
 
-| | |
-| :--- | :--- |
-| **Frontend** | React, Next.js (App Router), TypeScript, Tailwind CSS, Vite, Streamlit |
-| **Backend** | Node.js, Next.js Server Actions, NextAuth (JWT), Zod validation, Python, Java |
-| **Databases** | PostgreSQL (Neon, Prisma), Firebase Firestore, SQLite, Supabase Storage, IndexedDB |
-| **Cloud & AI** | AWS (Certified Cloud Practitioner), Vercel, Streamlit Cloud, GitHub Actions, Docker, Gemini API, Groq API |
+<img src="assets/stack.svg" alt="Frontend: React, Next.js, TypeScript, Tailwind CSS, Vite, Streamlit. Backend: Node.js, Server Actions, NextAuth JWT, Zod, Python, Java. Databases: PostgreSQL, Prisma, Firestore, SQLite, Supabase Storage, IndexedDB. Cloud and AI: AWS Certified, Vercel, Streamlit Cloud, GitHub Actions, Docker, Gemini API, Groq API." width="100%">
 
 ## Certifications
 
@@ -30,4 +39,8 @@ Third-year B.Tech Computer Science student at KIET Group of Institutions, Delhi.
 
 ## Contact
 
-[Email](mailto:saumyacodes02@gmail.com) · [LinkedIn](https://www.linkedin.com/in/saumya-tiwari-22909a330) · [Portfolio](https://saumya-tiwari.vercel.app)
+<p>
+  <a href="mailto:saumyacodes02@gmail.com">saumyacodes02@gmail.com</a> ·
+  <a href="https://www.linkedin.com/in/saumya-tiwari-22909a330">LinkedIn</a> ·
+  <a href="https://saumya-tiwari.vercel.app">Portfolio</a>
+</p>

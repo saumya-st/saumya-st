@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="230" viewBox="0 0 380 230" role="img" aria-label="Karya: Team projects, kanban boards, invites and Google Calendar sync. JWT sessions and server-side role checks on every action.">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d1120"/><stop offset="1" stop-color="#161a30"/></linearGradient>
+<linearGradient id="acc" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#f472b6"/><stop offset="1" stop-color="#a855f7"/></linearGradient>
+<radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#f472b6" stop-opacity="0.5"/><stop offset="1" stop-color="#f472b6" stop-opacity="0"/></radialGradient>
+<clipPath id="f"><rect width="380" height="230" rx="18"/></clipPath>
+</defs>
+<g clip-path="url(#f)">
+<rect width="380" height="230" fill="url(#bg)"/>
+<circle cx="330" cy="40" r="150" fill="url(#glow)"><animate attributeName="r" values="150;175;150" dur="6s" repeatCount="indefinite"/></circle>
+<rect x="0" y="0" width="380" height="4" fill="url(#acc)"/>
+<rect x="0.5" y="0.5" width="379" height="229" rx="18" fill="none" stroke="#ffffff" stroke-opacity="0.1"/>
+<rect x="24" y="26" width="46" height="46" rx="12" fill="#f472b6" fill-opacity="0.16" stroke="#f472b6" stroke-opacity="0.5"/>
+<g transform="translate(35 37)" stroke="#f472b6" stroke-width="2.2" fill="none" stroke-linecap="round" stroke-linejoin="round"><rect x="0" y="0" width="7" height="22" rx="2"/><rect x="9.5" y="0" width="7" height="14" rx="2"/><rect x="19" y="0" width="5" height="18" rx="2"/></g>
+<text x="84" y="47" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="800" fill="#f8fafc">Karya</text>
+<text x="84" y="66" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" letter-spacing="2" fill="#f472b6">TASK MANAGEMENT</text>
+<g transform="translate(296 32)"><rect width="60" height="22" rx="11" fill="#22c55e" fill-opacity="0.15" stroke="#22c55e" stroke-opacity="0.6"/><circle cx="13" cy="11" r="3.5" fill="#22c55e"><animate attributeName="opacity" values="1;0.3;1" dur="1.6s" repeatCount="indefinite"/></circle><text x="38" y="15" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="700" fill="#4ade80" text-anchor="middle">LIVE</text></g>
+<text x="24" y="104" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#c7cde3">Team projects, kanban boards, invites and</text>
+<text x="24" y="125" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#c7cde3">Google Calendar sync. JWT sessions and</text>
+<text x="24" y="146" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#c7cde3">server-side role checks on every action.</text>
+<g><rect x="24" y="176" width="68" height="26" rx="13.0" fill="#f472b6" fill-opacity="0.14" stroke="#f472b6" stroke-opacity="0.45"/><text x="58.0" y="193.32" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#f472b6" text-anchor="middle">Next.js</text></g>
+<g><rect x="99" y="176" width="89" height="26" rx="13.0" fill="#f472b6" fill-opacity="0.14" stroke="#f472b6" stroke-opacity="0.45"/><text x="143.5" y="193.32" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#f472b6" text-anchor="middle">TypeScript</text></g>
+<g><rect x="195" y="176" width="61" height="26" rx="13.0" fill="#f472b6" fill-opacity="0.14" stroke="#f472b6" stroke-opacity="0.45"/><text x="225.5" y="193.32" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#f472b6" text-anchor="middle">Prisma</text></g>
+<g><rect x="263" y="176" width="75" height="26" rx="13.0" fill="#f472b6" fill-opacity="0.14" stroke="#f472b6" stroke-opacity="0.45"/><text x="300.5" y="193.32" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#f472b6" text-anchor="middle">Postgres</text></g>
+<text x="24" y="218" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#6b7394">github.com/saumya-st/Karyaa</text>
+</g></svg>
