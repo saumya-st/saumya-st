@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-  <img alt="Saumya Tiwari. Full-stack developer, third-year B.Tech CS.Open to software, full-stack and backend internships." src="assets/banner-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg?v=2">
+  <img alt="Saumya Tiwari. Full-stack developer, third-year B.Tech CS.Open to software, full-stack and backend internships." src="assets/banner-light.svg?v=2" width="100%">
 </picture>
 
 <p align="center">
