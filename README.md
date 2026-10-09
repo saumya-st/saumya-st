@@ -46,7 +46,7 @@ And I add AI only where it earns its place.
 
 | Karya | Jansewa | AI Study Coach |
 | --- | --- | --- |
-| ![Karya demo](assets/[karya-screenshot].png) | ![Jansewa demo](assets/[jansewa-screenshot].png) | ![AI Study Coach demo](assets/[study-coach-screenshot].png) |
+| ![Karya demo](assets/karya.png) | ![Jansewa demo](assets/jansewa.png) | ![AI Study Coach demo](assets/study-coach.png) |
 
 ## 🧰 Tech Stack
 
@@ -61,7 +61,7 @@ And I add AI only where it earns its place.
 
 Want to run one of my projects locally? Grab it here.
 
-**You'll need:** Git, plus Node.js [version] for Karya and Jansewa, or Python [version] for AI Study Coach.
+**You'll need:** Git, plus Node.js 20 or newer for Karya and Jansewa, or Python 3.11 or newer for AI Study Coach.
 
 ```bash
 # Karya
@@ -96,7 +96,7 @@ Pull requests are welcome too. Keep them small and explain the why.
 
 ## 📄 License
 
-Each project has its own license. Check the repo for details. [license per repo]
+All three projects are released under the MIT License. See the LICENSE file in each repo.
 
 ## 📬 Let's Build Something
 
