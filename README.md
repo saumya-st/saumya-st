@@ -39,8 +39,8 @@ And I add AI only where it earns its place.
 | Project | Why it's cool | Stack | Try it |
 | --- | --- | --- | --- |
 | **Karya** | Team task manager with kanban boards, invites and Google Calendar sync. Every action is role-checked on the server. | Next.js · Prisma · Postgres · JWT | [Live](https://karya-gilt.vercel.app) · [Source](https://github.com/saumya-st/Karyaa) |
-| **Jansewa** | Report civic issues even offline. Reports wait in IndexedDB, sync to Firestore, and Gemini predicts their priority. | React · Firebase · Supabase · Gemini | [Source](https://github.com/saumya-st/JANSEWA-PROJECT) |
-| **AI Study Coach** | Groq plans your study time in blocks. Focus sessions are logged in SQLite, with streaks and CSV export. | Python · Streamlit · SQLite · Groq | [Live](https://stae-study.streamlit.app) · [Source](https://github.com/saumya-st/STUDY-ASSIS) |
+| **Jansewa** | Report civic issues even offline. Reports wait in IndexedDB and sync when you reconnect. Citizen, engineer and supervisor roles, Leaflet maps, and Gemini suggests the priority. | React · Firebase · Supabase · Gemini · Leaflet | [Source](https://github.com/saumya-st/JANSEWA-PROJECT) |
+| **AI Study Coach** | Groq plans your study time in blocks. Focus sessions are logged in SQLite, with streaks and CSV export. Modular code with pytest running in GitHub Actions. | Python · Streamlit · SQLite · Groq · pytest | [Live](https://stae-study.streamlit.app) · [Source](https://github.com/saumya-st/STUDY-ASSIS) |
 
 ## 📸 Screenshots / Demo
 
@@ -53,9 +53,11 @@ And I add AI only where it earns its place.
 | Layer | Tools |
 | --- | --- |
 | **Frontend** | React, Next.js, TypeScript, Tailwind CSS, Vite, Streamlit |
-| **Backend** | Node.js, Server Actions, NextAuth (JWT), Zod, Python, Java |
-| **Data** | PostgreSQL, Prisma, Firestore, SQLite, Supabase Storage, IndexedDB |
-| **Cloud & AI** | Vercel, Streamlit Cloud, GitHub Actions, Docker, Gemini API, Groq API |
+| **Languages** | Python, Java, JavaScript, TypeScript, C, C++, SQL, Bash |
+| **Backend** | Node.js, Express.js, Server Actions, REST APIs, NextAuth (JWT) |
+| **Data** | PostgreSQL, Prisma, MongoDB, Firestore, SQLite, Supabase, IndexedDB |
+| **AI & ML** | LangChain, LlamaIndex, RAG, LangGraph, CrewAI, MCP, scikit-learn, Pandas, OpenCV, Gemini API, Groq API |
+| **Cloud & tools** | AWS, Vercel, Streamlit Cloud, GitHub Actions, Docker, Git |
 
 ## 🏁 Getting Started
 
@@ -86,8 +88,7 @@ Then follow the install and run steps in that repo's README.
 ## 🏅 Certifications
 
 - AWS Certified Cloud Practitioner
-- Infosys Springboard: NoSQL Databases, Java Spring Training
-- Red Hat Academy: Introduction to Linux
+- Training: NoSQL Databases and Java Spring (Infosys), Linux Fundamentals (Red Hat Academy)
 
 ## 🤝 Contributing
 
